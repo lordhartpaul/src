@@ -19,7 +19,7 @@ public class xor extends Applet
             }
         });
     }
-    public void paint(Graphics g)
+    public add paint(Graphics g)
     {
         g.drawLine(0,0,100,100);
         g.drawLine(0,100,100,0);
